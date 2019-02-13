@@ -3,6 +3,7 @@
     "version": "1.2.1",
     "description": "Module gzip's json data and sends decompressed content length by header",
     "main": "index.js",
+    "types": "index.d.ts",
     "scripts": {
         "build": "tsc --declaration",
         "test": "echo \"Error: no test specified\" && exit 1"
