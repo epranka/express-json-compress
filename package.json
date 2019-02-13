@@ -1,6 +1,6 @@
 {
     "name": "express-json-compress",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "Module gzip's json data and sends decompressed content length by header",
     "main": "index.js",
     "types": "index.d.ts",
